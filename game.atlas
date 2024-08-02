@@ -1,20 +1,55 @@
 
 game.png
-size: 64, 64
+size: 512, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-EmojiIcons/SortedAscending
+EmojiIcons/Infinity
   rotate: false
   xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/RightArrow
+  rotate: false
+  xy: 62, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/SortedAscending
+  rotate: false
+  xy: 294, 4
   size: 20, 50
   orig: 20, 50
   offset: 0, 0
   index: -1
+EmojiIcons/SortedByStatus
+  rotate: false
+  xy: 120, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/SortedByTime
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 EmojiIcons/SortedDescending
   rotate: false
-  xy: 32, 4
+  xy: 322, 4
   size: 20, 50
   orig: 20, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Star
+  rotate: false
+  xy: 236, 4
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
