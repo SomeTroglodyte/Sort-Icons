@@ -1,0 +1,20 @@
+
+game.png
+size: 64, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+EmojiIcons/SortedAscending
+  rotate: false
+  xy: 4, 4
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/SortedDescending
+  rotate: false
+  xy: 32, 4
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
